@@ -1,4 +1,4 @@
-# HuskyLens Face Recognition Relay Lock
+![IMG_20250529_183928](https://github.com/user-attachments/assets/c752d6a8-b048-4f54-90b1-becba405593c)![IMG_20250529_183928](https://github.com/user-attachments/assets/957601a2-3751-48bd-a215-9d49b7f53721)![IMG_20250529_183928](https://github.com/user-attachments/assets/72089270-5575-4a99-a87f-5df2b02fc0e9)# HuskyLens Face Recognition Relay Lock
 
 This Arduino project uses a [HuskyLens AI Camera](https://www.dfrobot.com/product-1922.html) with face recognition to control a relay lock. It identifies authorized faces and unlocks the relay for them, automatically locking it again when they leave.
 
@@ -45,3 +45,9 @@ This Arduino project uses a [HuskyLens AI Camera](https://www.dfrobot.com/produc
 ```cpp
 #define RELAY_PIN 3
 #define COOLDOWN_DURATION 5000
+![IMG_20250529_183928](https://github.com/user-attachments/assets/7f2e5d5d-6564-4f3e-b87c-a82ea2d42fce)
+
+
+
+
+

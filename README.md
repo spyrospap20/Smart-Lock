@@ -45,10 +45,9 @@ This Arduino project uses a [HuskyLens AI Camera](https://www.dfrobot.com/produc
 ```cpp
 #define RELAY_PIN 3
 #define COOLDOWN_DURATION 5000
-![IMG_20250529_183928](https://github.com/user-attachments/assets/5dd0329d-841a-434e-99f6-7fcb1c693168)
-![IMG_20250529_183933](https://github.com/user-attachments/assets/94eb7817-9b77-48d5-99ef-ef660c0d48bd)
-![IMG_20250529_183939](https://github.com/user-attachments/assets/995f5b0e-c431-4e1c-a28e-357b51986a9b)
-
+![IMG_20250529_183928](https://github.com/user-attachments/assets/a103faec-467a-4e3d-8657-fdc0f3139a73)
+![IMG_20250529_183933](https://github.com/user-attachments/assets/ea38bc5d-6f7a-4f5a-909c-4236c5e1e797)
+![IMG_20250529_183939](https://github.com/user-attachments/assets/fcf8d68a-4262-4645-83d0-8d194a1ceb46)
 
 
 
